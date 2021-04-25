@@ -1,0 +1,13 @@
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.exe
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.deps.json
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.runtimeconfig.json
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.runtimeconfig.dev.json
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.dll
+C:\Users\anabr\source\repos\Teeste\Teeste\bin\Debug\netcoreapp3.1\Teeste.pdb
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.csprojAssemblyReference.cache
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.AssemblyInfoInputs.cache
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.AssemblyInfo.cs
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.csproj.CoreCompileInputs.cache
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.dll
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.pdb
+C:\Users\anabr\source\repos\Teeste\Teeste\obj\Debug\netcoreapp3.1\Teeste.genruntimeconfig.cache
